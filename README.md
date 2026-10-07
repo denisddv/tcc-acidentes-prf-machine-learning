@@ -183,6 +183,6 @@ Depois execute os notebooks na ordem indicada. O primeiro notebook realiza a col
 ## Autoria
 
 **Denis Dorneles**  
-Ciência de Dados — UniFECAF
+Engenharia da Computação — UniFECAF
 
 **Coorientadora:** Rafaela da Silva
