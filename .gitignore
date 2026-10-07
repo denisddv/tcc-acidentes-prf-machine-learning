@@ -1,0 +1,36 @@
+# Dados brutos e processados
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Modelos treinados
+*.joblib
+*.pkl
+*.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# IDE e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+*.log
+
+# Google Colab
+/content/
