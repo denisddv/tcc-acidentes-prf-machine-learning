@@ -1,8 +1,13 @@
 # Documentação
 
-Este diretório reúne o artigo final do TCC e materiais acadêmicos relacionados ao projeto.
+Este diretório reúne o artigo final e os materiais acadêmicos do projeto.
 
-**Tema:** Análise de Dados e Machine Learning aplicados à identificação dos fatores associados à gravidade dos acidentes de trânsito nas rodovias federais brasileiras.
+**Título:** Análise de Dados e Machine Learning na Classificação da Gravidade de Acidentes em Rodovias Federais Brasileiras: um estudo com dados da PRF de 2020 a 2025
 
-**Autora:** Amanda Thiel Lopes  
+**Autor:** Denis Dorneles  
+**Curso:** Engenharia da Computação — UniFECAF  
 **Coorientadora:** Rafaela da Silva
+
+## Arquivo principal
+
+- [TCC_Denis_Dorneles.docx](TCC_Denis_Dorneles.docx)
