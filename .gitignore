@@ -1,0 +1,27 @@
+# Bases brutas e processadas (não publicar)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Artefatos locais, modelos e cache
+*.joblib
+*.pkl
+*.pickle
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.log
+.DS_Store
+Thumbs.db
+
+# Não publicar materiais acadêmicos nem apresentações neste repositório
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.key
