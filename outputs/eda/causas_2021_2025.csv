@@ -1,0 +1,77 @@
+causa_acidente,acidentes,graves,mortos,taxa_grave
+Reação tardia ou ineficiente do condutor,46901,11223,2843,23.92912731071832
+Ausência de reação do condutor,44630,11912,3255,26.690566883262377
+Acessar a via sem observar a presença dos outros veículos,31168,10244,1870,32.8670431211499
+Velocidade Incompatível,24420,7547,2569,30.904995904995907
+Condutor deixou de manter distância do veículo da frente,22601,4080,470,18.052298570859694
+Ingestão de álcool pelo condutor,20077,4172,1013,20.779997011505703
+Manobra de mudança de faixa,19442,4608,1155,23.701265301923673
+Demais falhas mecânicas ou elétricas,15126,1724,299,11.397593547534047
+Transitar na contramão,11145,6713,4163,60.23328847016599
+Condutor Dormindo,10822,2951,1023,27.268527074477916
+Ultrapassagem Indevida,8333,3852,1895,46.22584903396136
+Desrespeitar a preferência no cruzamento,7139,2009,194,28.14119624597283
+Animais na Pista,6590,1799,404,27.298937784522003
+Avarias e/ou desgaste excessivo no pneu,6114,1143,197,18.694798822374878
+Chuva,5637,1137,327,20.17030335284726
+Trafegar com motocicleta (ou similar) entre as faixas,5391,1370,253,25.412724911890187
+Conversão proibida,4565,1610,248,35.26834611171961
+Acesso irregular,3519,1184,211,33.64592213697073
+Entrada inopinada do pedestre,3326,2286,1009,68.73120865904991
+Pedestre andava na pista,3262,2460,1395,75.41385652973635
+Pista Escorregadia,3015,562,159,18.640132669983416
+Pedestre cruzava a pista fora da faixa,2867,1906,751,66.48064178583886
+Acumulo de água sobre o pavimento,2809,481,124,17.123531505873977
+Mal súbito do condutor,2784,915,368,32.866379310344826
+Frear bruscamente,1927,290,32,15.049299429164503
+Objeto estático sobre o leito carroçável,1844,459,107,24.891540130151842
+Pista esburacada,1660,466,108,28.072289156626507
+Retorno proibido,1604,541,100,33.728179551122196
+Problema com o freio,1480,323,140,21.824324324324323
+Carga excessiva e/ou mal acondicionada,1400,198,85,14.142857142857142
+Condutor desrespeitou a iluminação vermelha do semáforo,1373,383,34,27.895120174799708
+Acumulo de areia ou detritos sobre o pavimento,1344,265,28,19.717261904761905
+Demais falhas na via,1307,324,80,24.789594491201225
+Transitar no Acostamento,1257,534,156,42.482100238663485
+Curva acentuada,1213,317,98,26.133553173948886
+Ausência de sinalização,997,330,74,33.09929789368105
+Acumulo de óleo sobre o pavimento,987,153,24,15.501519756838904
+Afundamento ou ondulação no pavimento,933,250,59,26.79528403001072
+Acostamento em desnível,890,192,48,21.573033707865168
+Deficiência do Sistema de Iluminação/Sinalização,885,378,136,42.71186440677966
+Estacionar ou parar em local proibido,839,290,70,34.56495828367104
+Transitar no acostamento,823,363,106,44.106925880923455
+Iluminação deficiente,793,362,131,45.64943253467844
+Ingestão de álcool e/ou substâncias psicoativas pelo pedestre,778,253,73,32.51928020565553
+Condutor usando celular,683,175,41,25.622254758418737
+Área urbana sem a presença de local apropriado para a travessia de pedestres,446,266,89,59.64125560538116
+Suicídio (presumido),438,356,230,81.27853881278538
+Demais Fenômenos da natureza,417,69,15,16.546762589928058
+Ingestão de substâncias psicoativas pelo condutor,406,88,27,21.67487684729064
+Falta de elemento de contenção que evite a saída do leito carroçável,380,106,44,27.89473684210526
+Falta de acostamento,373,134,45,35.924932975871315
+Obras na pista,340,99,18,29.117647058823533
+Pedestre - Ingestão de álcool/ substâncias psicoativas,323,188,53,58.204334365325074
+Neblina,295,85,27,28.8135593220339
+Ingestão de álcool ou de substâncias psicoativas pelo pedestre,280,143,45,51.07142857142857
+Problema na suspensão,268,36,7,13.432835820895523
+Sinalização mal posicionada,243,65,22,26.74897119341564
+Obstrução na via,238,65,8,27.310924369747898
+Desvio temporário,205,62,17,30.24390243902439
+Pista em desnível,180,31,8,17.22222222222222
+Fumaça,174,30,6,17.24137931034483
+Transtornos Mentais (exceto suicidio),138,48,19,34.78260869565217
+Declive acentuado,137,44,12,32.11678832116788
+Restrição de visibilidade em curvas horizontais,114,27,5,23.684210526315788
+Participar de racha,72,44,16,61.111111111111114
+Deixar de acionar o farol da motocicleta (ou similar),68,30,4,44.11764705882353
+Faixas de trânsito com largura insuficiente,63,13,6,20.634920634920633
+Modificação proibida,59,17,4,28.8135593220339
+Transitar na calçada,54,18,3,33.33333333333333
+Restrição de visibilidade em curvas verticais,53,22,8,41.509433962264154
+Semáforo com defeito,42,10,1,23.809523809523807
+Redutor de velocidade em desacordo,39,10,0,25.64102564102564
+Faróis desregulados,38,9,1,23.684210526315788
+Sinalização encoberta,19,4,2,21.052631578947366
+Sistema de drenagem ineficiente,12,3,1,25.0
+Obstrução Via tentativa Assalto,10,1,0,10.0
