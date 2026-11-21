@@ -1,0 +1,7 @@
+parametro,valor
+modelo,XGBoost
+threshold,0.28
+criterio_threshold,Maior F2-score
+periodo_treino,2020-2023
+periodo_validacao,2024
+periodo_teste_final,2025
