@@ -1,0 +1,13 @@
+metrica,valor
+accuracy,0.37535330695308083
+precision,0.3075932876329911
+recall,0.9677938808373591
+f1,0.4668180908780643
+f2,0.6771252987367702
+roc_auc,0.7135880885357279
+pr_auc,0.5291685294046006
+threshold,0.28
+verdadeiro_negativo,7391.0
+falso_positivo,44645.0
+falso_negativo,660.0
+verdadeiro_positivo,19833.0
