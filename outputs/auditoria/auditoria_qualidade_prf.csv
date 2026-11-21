@@ -1,0 +1,32 @@
+coluna,tipo,registros,nulos,percentual_nulos,nivel_nulos,valores_unicos,exemplo
+uop,object,406209,335,0.08,Muito baixo,413,UOP02-DEL01-PA
+delegacia,object,406209,152,0.04,Muito baixo,155,DEL01-PA
+regional,object,406209,27,0.01,Muito baixo,28,SPRF-PA
+horario,object,406209,0,0.0,Sem nulos,1440,05:40:00
+id,float64,406209,0,0.0,Sem nulos,406209,260068.0
+data_inversa,object,406209,0,0.0,Sem nulos,2192,2020-01-01
+dia_semana,object,406209,0,0.0,Sem nulos,7,quarta-feira
+municipio,object,406209,0,0.0,Sem nulos,2066,SAO FRANCISCO DO PARA
+causa_acidente,object,406209,0,0.0,Sem nulos,91,Falta de Atenção à Condução
+tipo_acidente,object,406209,1,0.0,Sem nulos,21,Saída de leito carroçável
+classificacao_acidente,object,406209,7,0.0,Sem nulos,3,Com Vítimas Feridas
+fase_dia,object,406209,0,0.0,Sem nulos,4,Pleno dia
+uf,object,406209,0,0.0,Sem nulos,27,PA
+br,int64,406209,0,0.0,Sem nulos,127,316
+km,Float64,406209,0,0.0,Sem nulos,9629,84.0
+tipo_pista,object,406209,0,0.0,Sem nulos,3,Simples
+condicao_metereologica,object,406209,0,0.0,Sem nulos,10,Céu Claro
+sentido_via,object,406209,0,0.0,Sem nulos,3,Decrescente
+tracado_via,object,406209,0,0.0,Sem nulos,1242,Reta
+feridos_leves,int64,406209,0,0.0,Sem nulos,48,2
+uso_solo,object,406209,0,0.0,Sem nulos,2,Não
+pessoas,int64,406209,0,0.0,Sem nulos,75,3
+mortos,int64,406209,0,0.0,Sem nulos,19,0
+ignorados,int64,406209,0,0.0,Sem nulos,29,1
+ilesos,int64,406209,0,0.0,Sem nulos,66,0
+feridos_graves,int64,406209,0,0.0,Sem nulos,29,0
+feridos,int64,406209,0,0.0,Sem nulos,55,2
+longitude,Float64,406209,0,0.0,Sem nulos,180563,-47.74456398
+latitude,Float64,406209,0,0.0,Sem nulos,180804,-1.3101929
+veiculos,int64,406209,0,0.0,Sem nulos,30,2
+ano_fonte,int64,406209,0,0.0,Sem nulos,6,2020
